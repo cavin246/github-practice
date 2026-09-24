@@ -1,2 +1,5 @@
 # github-practice
-My first GitHub repository
+My name is Cavin Makamo
+
+I am learing Git and GitHub
+
